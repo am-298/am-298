@@ -27,7 +27,7 @@ I am Frontend Hardware Engineer from India with a strong interest in RTL design 
 - :zap: Passionate about coding RTL designs and staying updated through tech articles in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushimaurya298/)
-- :mailbox:Resume : [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1UFbwjL0SX3qohNCFcvroraxTXlqf0M35/view/)
+- :mailbox:Resume : [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=Resume&logoColor=white)]([https://drive.google.com/file/d/1UFbwjL0SX3qohNCFcvroraxTXlqf0M35/view/](https://drive.google.com/file/d/1UFbwjL0SX3qohNCFcvroraxTXlqf0M35/view))
 <!--
 **am-298/am-298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
