@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ3ZXJobnJ1Y2FuajkwMTkzcWJqcXl1d3Rma2pjdnViM2phODQ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ3ZXJobnJ1Y2FuajkwMTkzcWJqcXl1d3Rma2pjdnViM2phODQ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="150"/>
 </div>
 <div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/ayushimaurya298/">
