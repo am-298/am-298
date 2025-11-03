@@ -1,44 +1,89 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ3ZXJobnJ1Y2FuajkwMTkzcWJqcXl1d3Rma2pjdnViM2phODQ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="150"/>
+
+
+<!-- Profile Header -->
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm a Frontend Hardware Engineer!</h1>
+<h3 align="center">RTL Design | VLSI | Digital Systems Enthusiast</h3>
+<div  align="center">
+  <img src="/images/0.gif" width="300" height ="50"/>
 </div>
-<div id="badges" align ="center">
-  <a href="https://www.linkedin.com/in/ayushimaurya298/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/am-298">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Git-Hub Badge"/>
-  </a>
-  <a href="mailto:ayushimaur8@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushimaurya298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayushimaur8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/am-298"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1Z-ApIjKL0rD5t1cY7bPLwdC6u-3c49p1/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=flat-square&logo=readme&logoColor=white"/></a>
+</p>
 
-## Hi there 👋
+---
+
+### 👨‍💻 About Me
+
+I am a **Frontend Hardware Engineer from India** with a strong interest in **RTL Design, VLSI, and Digital System Development**.  
+I’m passionate about **hardware architecture, processor design**, and **technical content writing**, constantly exploring ways to bridge design and verification with efficient coding practices.  
+
+- 🎯 **Actively seeking opportunities** in RTL Design and Frontend VLSI development.  
+- 🧠 **Love exploring** digital systems, processor architecture, and design automation.  
+- ⚡ **Tech Enthusiast:** Enjoy scripting (TCL, Bash) to automate EDA flows.  
+- 📝 **Sharing knowledge:** Through documentation, blogs, and technical write-ups.
+
+---
+
+### 🧩 Projects & Highlights
+
+#### 🔹 Parameterized N-bit Fixed-Priority Arbiter | *SystemVerilog*
+Designed a scalable arbiter (N=4–32) with parameterized width using generate constructs.  
+Implemented efficient priority encoding logic with O(N) delay and verified correctness via testbenches.  
+
+#### 🔹 Custom RISC-style Processor | *Verilog*
+Developed a 32-bit CPU supporting 26 basic operations with ALU, register file, and control unit.  
+Integrated control hazard handling and validated design with functional testbenches.  
+
+#### 🔹 Keurig Coffee Machine Simulator | *FPGA Project*
+Implemented a Verilog-based state machine on a Basys 3 FPGA board to simulate coffee-making sequences using 7-segment displays and LEDs.  
+
+---
+
+### 🛠️ Technical Skills
+
+| Category | Tools / Languages |
+|-----------|-------------------|
+| **Hardware Languages** | Verilog, SystemVerilog |
+| **Programming** | C++, Python |
+| **Scripting** | TCL, Bash |
+| **EDA Tools** | Vivado, Cadence Virtuoso, SPICE, CST, Sentaurus |
+| **Protocols** | UART, SPI, I2C |
+| **OS** | Linux |
+
+---
+
+### 📚 Coursework & Certifications
+
+- Digital VLSI • Digital Electronics • CMOS Design  
+- **Certifications:**  
+  - *RISC-V Processor (RV32I)* – Maven Silicon  
+  - *VLSI System-on-Chip Design* – Maven Silicon  
+  - *Learning Bash Scripting* – LinkedIn Learning  
+
+---
+
+### 🌐 Featured Repositories
+
+| Repository | Description | Language |
+|-------------|--------------|-----------|
+| [**RTL-CODING-Verilog**](https://github.com/am-298/RTL-CODING-Verilog) | RTL modules with scripts & testbenches | Verilog |
+| [**Communication_protocols**](https://github.com/am-298/Communication_protocols) | UART, SPI, I2C protocol implementations | Verilog |
+| [**ALU_4bit**](https://github.com/am-298/ALU_4bit) | Simple 4-bit ALU implementation | Verilog |
 
 
-### :woman_technologist: About Me :
+---
 
-I am Frontend Hardware Engineer from India with a strong interest in RTL design and VLSI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### 💬 Let's Connect
 
-- :telescope: Actively seeking job opportunities in the VLSI domain.
+Feel free to reach out for **collaborations**, **discussions**, or **knowledge sharing** on hardware design and coding.  
+📩 [LinkedIn](https://www.linkedin.com/in/ayushimaurya298/) | [Gmail](mailto:ayushimaur8@gmail.com)
 
-- :seedling: Exploring technical content writing to share knowledge and insights.
+---
 
-- :zap: Passionate about coding RTL designs and staying updated through tech articles in my free time.
+<p align="center">✨ “Design is not just how it looks, but how it works.” ✨</p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushimaurya298/)
-- :mailbox:Resume : [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1Zu3B56tMV7-sUbesMohaXOa7pekh38lR/view?usp=drive_link)
-<!--
-**am-298/am-298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
