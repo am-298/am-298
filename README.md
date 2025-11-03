@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm a Frontend Hardware Engineer!</h1>
 <h3 align="center">RTL Design | VLSI | Digital Systems Enthusiast</h3>
 <div  align="center">
-  <img src="/images/0.gif" width="300" height ="50"/>
+  <img src="/images/0.gif" width="275" height ="75"/>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushimaurya298/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
