@@ -70,7 +70,7 @@ Implemented a Verilog-based state machine on a Basys 3 FPGA board to simulate co
 
 | Repository | Description | Language |
 |-------------|--------------|-----------|
-| [**RTL-CODING-Verilog**](https://github.com/am-298/RTL-CODING-Verilog) | RTL modules with scripts & testbenches | Verilog |
+| [**Microprocessor**](https://github.com/am-298/smallMicroprocessor_1) | RTL modules with scripts & testbenches | Verilog |
 | [**Communication_protocols**](https://github.com/am-298/Communication_protocols) | UART, SPI, I2C protocol implementations | Verilog |
 | [**ALU_4bit**](https://github.com/am-298/ALU_4bit) | Simple 4-bit ALU implementation | Verilog |
 
